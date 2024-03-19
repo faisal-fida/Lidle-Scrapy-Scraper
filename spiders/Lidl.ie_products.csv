@@ -1,0 +1,801 @@
+﻿Product ID1,Product ID2,Category,Product Name,Price,Details,On Promo,Original Price,Promo Date
+p18065,82846,Super Savers,Celery,€ 0.49,,Yes,Was 79c,From 02.12
+p18067,83331,Super Savers,Yellow Onions,€ 0.49,,Yes,Was 59c,From 02.12
+p18063,82825,Super Savers,Beetroot,€ 0.49,,Yes,Was 55c,From 02.12
+p18061,249494,Super Savers,Deluxe 2 Irish Angus Fillet Steaks,€ 8.99,,Yes,Was €10.99,From 02.12
+p18062,8788,Super Savers,Organic Fairtrade Bananas,€ 0.49,,Yes,Was €1.59,From 02.12
+p18066,82961,Super Savers,Savoy Cabbage,€ 0.49,,Yes,Was 99c,From 02.12
+p17898,247865,Super Savers,Lighthouse Bay 2 Battered Haddock Fillet,€ 2.99,,Yes,Was €3.49,From 25.11
+p18064,82741,Super Savers,Turnip,€ 0.49,,Yes,Was 79c,From 02.12
+p4627,238932,Christmas Drinks,Deluxe Salted Caramel Irish Cream Liqueur 15%,€ 9.99,,No,,
+p1265,224589,Grocery Range Deluxe,Deluxe 2 Duck Breast Fillets,€ 5.99,,No,,
+p2270,215893,Christmas Drinks,Deluxe Chocolate Cream Liqueur 15%,€ 9.99,,No,,
+p5410,249494,Grocery Range Beef,Irish Angus Fillet Steaks,€ 10.99,Deluxe,No,,
+p5404,249010,Grocery Range Beef,Irish Angus Striploin Steaks,€ 7.99,Deluxe,No,,
+p16059,,Christmas Drinks,Wild Burrow Irish Craft Gin with Lights 40%,€ 24.99,,Yes,,From 01.11
+p3881,230521,Grocery Range Deluxe,Deluxe Irish Roast Chicken Breast,€ 2.59,,No,,
+p5441,241374,Grocery Range Beef,Angus Eye of Round Roasting Joint,€ 11.99,Deluxe,No,,
+p5407,249006,Grocery Range Beef,Irish Angus Diced Beef Steak,€ 3.79,Deluxe,No,,
+p4627,238932,Christmas Drinks,Deluxe Salted Caramel Irish Cream Liqueur 15%,€ 9.99,,No,,
+p5446,241375,Grocery Range Beef,Irish Angus Rib Roast on the Bone,€ 13.99,Deluxe,No,,
+p16062,236192,Christmas Drinks,Espresso Martini 19%,€ 9.99,,Yes,,From 08.11
+p4430,241373,Grocery Range Beef,Irish Angus Round Roast Beef Joint,€ 11.49,Deluxe,No,,
+p7918,251555,Grocery Range Beef,Irish Angus Roasting Joint,€ 11.99,Deluxe,No,,
+p2270,215893,Christmas Drinks,Deluxe Chocolate Cream Liqueur 15%,€ 9.99,,No,,
+p7513,245768,Grocery Range Beef,Irish Angus Beef Burgers,€ 2.39,Deluxe,No,,
+p5414,249007,Grocery Range Beef,Angus Lean Beef Steak Mince,€ 3.29,Deluxe,No,,
+p16084,240640,Christmas Drinks,Wild Burrow Irish Craft Small Batch Gin Gift Box 40%,€ 24.99,,Yes,,From 04.10
+p2857,,Christmas Drinks,Tio Nico Sherry Cream 17%,€ 7.89,,No,,
+p3369,209864,Christmas Drinks,Blended Malt Scotch Whiskey 42%,€ 20.99,,No,,
+p5411,249493,Grocery Range Beef,Irish Angus Rib Eye Steaks,€ 8.99,Deluxe,No,,
+p7723,245242,Grocery Range Gins,Premium Gin & Rhubarb Ginger 5%,€ 1.99,Hortus,No,,
+p15923,250759,Christmas Drinks,Marlborough Pinot Noir,€ 5.99,Winemaker's Selection,No,,
+p5705,249009,Grocery Range Beef,Angus Striploin Steak,€ 7.49,Deluxe,No,,
+p7200,209751,Grocery Range Whiskey,Bushmills Irish Whiskey 40%,€ 23.00,,No,,
+p9901,254411,Grocery Range Craft Beer,Punk AF 0.5%,€ 7.00,,No,,
+p16058,250883,Christmas Drinks,12 Beers of Christmas Gift Box,€ 24.99,,Yes,,From 29.11
+p16082,,Christmas Drinks,Single Malt Whiskey Miniature Gift Pack,€ 10.00,,Yes,,From 29.11
+p17222,210185,Christmas Drinks,Deluxe Non Alcoholic Mulled Punch,€ 1.89,,No,,
+p5707,249492,Grocery Range Beef,Angus Rib Eye Steak,€ 7.99,Deluxe,No,,
+p9419,208188,Christmas Drinks,Baileys Original Irish Cream Liquer 17%,€ 17.00,,Yes,,From 15.11
+p11188,223094,Christmas Drinks,Italian Prosecco Cans 10%,€ 1.99,Allini,No,,
+p7198,209744,Grocery Range Gins,Gordon's London Dry Gin 37.5%,€ 22.00,,No,,
+p7731,238895,Grocery Range Vodka,Woo Woo Cocktail 5%,€ 1.49,Sunrise,No,,
+p4119,210376,Christmas Drinks,Smirnoff Vodka 37.5%,€ 21.00,,No,,
+p7096,213090,Christmas Drinks,Captain Morgan Original Spiced Rum 35%,€ 22.00,,No,,
+p3661,202073,Grocery Range Red Wines,Saint Emilion Gran Cru AOC 12.5%,€ 14.99,,No,,
+p10757,254792,Grocery Range Craft Beer,Phantom Hazy IPA 4%,€ 9.99,The White Hag,No,,
+p15895,252055,Christmas Drinks,Carlsberg Alcohol Free Lager 0%,€ 4.99,,No,,
+p9902,254193,Grocery Range Craft Beer,Hazy Session IPA 4.6%,€ 10.00,Sierra Nevada,No,,
+p9897,254414,Grocery Range Craft Beer,Punk IPA 5.4%,€ 10.00,Brewdog,No,,
+p7737,238891,Grocery Range Gins,Pink Gin & Tonic 5%,€ 1.49,Finton's,No,,
+p4881,225994,Gin Festival,Rhubarb & Ginger Gin 20%,€ 14.99,Hortus,No,,
+p2901,215222,Grocery Range Craft Beer,American Style Pale Wheat Ale 5%,€ 1.99,The Crafty Brewing Company,No,,
+p2873,224688,Grocery Range Craft Beer,Belgian Style Saison 4.8%,€ 1.99,The Crafty Brewing Company,No,,
+p7723,245242,Grocery Range Gins,Premium Gin & Rhubarb Ginger 5%,€ 1.99,Hortus,No,,
+p9881,254413,Grocery Range Craft Beer,Elvis Juice IPA 5.1%,€ 12.00,Brewdog,No,,
+p10764,254790,Grocery Range Craft Beer,Little Fawn Session IPA 4.2%,€ 9.99,The White Hag,No,,
+p4689,214330,Grocery Range Gins,Gin & Tonic 5%,€ 1.49,Finton's,No,,
+p9886,254195,Grocery Range Craft Beer,Renegade New England IPA 5.3%,€ 2.79,Porterhouse,No,,
+p2834,212003,Grocery Range Craft Beer,Irish Craft Stout 4.5%,€ 1.99,The Crafty Brewing Company,No,,
+p2830,211982,Grocery Range Craft Beer,Red Ale 4.1%,€ 1.99,The Crafty Brewing Company,No,,
+p3042,202344,Grocery Range Red Wines,Chilean Merlot 13%,€ 5.99,Cimarosa,No,,
+p2858,204402,Grocery Range Red Wines,Rioja Crianza DOC 13.5%,€ 7.99,Cepa Lebrel,No,,
+p9894,254189,Grocery Range Craft Beer,Pilgrims Session Ale 4%,€ 10.00,Franciscan Well,No,,
+p9901,254411,Grocery Range Craft Beer,Punk AF 0.5%,€ 7.00,,No,,
+p3261,211169,Grocery Range Red Wines,Spanish Red Wine 11%,€ 3.99,,No,,
+p9893,254196,Grocery Range Craft Beer,Rambler Pale Ale 4.6%,€ 2.79,Porterhouse,No,,
+p2895,212007,Grocery Range Craft Beer,India Pale Ale 6%,€ 1.99,The Crafty Brewing Company,No,,
+p14422,211307,Grocery Range Red Wines,Rioja Doca Reserva,€ 8.49,Cepa Lebrel,No,,
+p3747,200645,Grocery Range Red Wines,Chianti DOCG 11%,€ 6.99,,No,,
+p5839,236194,Gin Festival,Premium Pink Gin 40%,€ 19.99,Hortus,Yes,,From 27.05
+p11486,254495,Grocery Range Craft Beer,Cheep Flirt IPA 3.8%,€ 2.79,Brú,No,,
+p3661,202073,Grocery Range Red Wines,Saint Emilion Gran Cru AOC 12.5%,€ 14.99,,No,,
+p2893,212431,Grocery Range Craft Beer,Irish Lager 5%,€ 1.79,The Crafty Brewing Company,No,,
+p9889,254412,Grocery Range Craft Beer,Hazy Jane American IPA 5%,€ 11.00,Brewdog,No,,
+p7775,213311,Gin Festival,Premium Ice Cubes,€ 0.80,Gelatelli,No,,
+p2874,224686,Grocery Range Craft Beer,American Style Brown Ale 5%,€ 1.99,The Crafty Brewing Company,No,,
+p10756,254187,Grocery Range Craft Beer,Rebel Red Ale 4.3%,€ 10.00,Franciscan Well,No,,
+p7731,238895,Grocery Range Vodka,Woo Woo Cocktail 5%,€ 1.49,Sunrise,No,,
+p9885,254191,Grocery Range Craft Beer,Pale Ale 5.0%,€ 10.00,Sierra Nevada,No,,
+p10033,228423,Gin Festival,Slimline Tonic,€ 4.99,Schweppes,Yes,ONLY,From 27.05
+p3670,202199,Grocery Range Red Wines,Côtes du Rhône Villages AOC 13.5%,€ 7.49,,No,,
+p3743,211145,Grocery Range Red Wines,Bordeaux Superior AOP 13.5%,€ 7.99,,No,,
+p12814,240970,Gin Festival,Garnish Island Gin 46%,€ 24.99,West Cork Distillers,Yes,,From 27.05
+p4881,225994,Gin Festival,Rhubarb & Ginger Gin 20%,€ 14.99,Hortus,No,,
+p7198,209744,Grocery Range Gins,Gordon's London Dry Gin 37.5%,€ 22.00,,No,,
+p10022,228422,Gin Festival,Tonic,€ 4.99,Schweppes,Yes,ONLY,From 27.05
+p3781,225073,Grocery Range Red Wines,Beaujolais Villages AOP 12.5%,€ 7.99,,No,,
+p4690,231127,Grocery Range Red Wines,Luna Argentinian Premium Malbec Agrelo 13%,€ 9.99,,No,,
+p3751,211125,Grocery Range Red Wines,Chianti DOCG Riserva  13%,€ 9.99,Chianti,No,,
+p3778,228159,Grocery Range Red Wines,Pinot Noir 13.5%,€ 7.49,,No,,
+p9899,254194,Grocery Range Craft Beer,Wrasslers XXXX Stout 5%,€ 2.79,Porterhouse,No,,
+p5033,241521,Grocery Range Red Wines,Chiara Vita  Montepulciano d'Abruzzo DOC 12.5%,€ 5.99,,No,,
+p10760,254791,Grocery Range Craft Beer,Ninth Wave New World Pale Ale 5.4%,€ 9.99,The White Hag,No,,
+p2853,203535,Grocery Range Whiskey,Queen Margot Blended Scotch Whisky 40%,€ 14.99,,No,,
+p2323,200615,Grocery Range Whiskey,Western Gold Bourbon Whiskey 40%,€ 14.99,,No,,
+p12478,232122,Grocery Range Whiskey,Queen Margot Blended Scotch Whisky 40%,€ 18.99,,No,,
+p3739,210203,Grocery Range Red Wines,Chilean Cabernet Sauvignon 13.5%,€ 5.99,Cimarosa,No,,
+p8781,251741,Grocery Range Whiskey,Jameson Irish Whiskey 40%,€ 25.00,,No,,
+p4610,214331,Grocery Range Gins,Gin & Diet Tonic 5%,€ 1.49,Finton's,No,,
+p10753,254493,Grocery Range Craft Beer,Citrus IPA 5.5%,€ 2.79,Brú,No,,
+p2861,233890,Grocery Range Red Wines,Chile Merlot Reserva Privada 12.5%,€ 7.99,Viajero,No,,
+p10762,254494,Grocery Range Craft Beer,Off The Hook Pils 4.5%,€ 2.79,Brú,No,,
+p7200,209751,Grocery Range Whiskey,Bushmills Irish Whiskey 40%,€ 23.00,,No,,
+p9882,254188,Grocery Range Craft Beer,Chieftain IPA 5.5%,€ 10.00,Franciscan Well,No,,
+p7198,209744,Grocery Range Gins,Gordon's London Dry Gin 37.5%,€ 22.00,,No,,
+p7727,238894,Christmas Drinks,Mojito Cocktail 5%,€ 1.49,Sunrise,No,,
+p3310,212004,Grocery Range Craft Beer,Irish Craft Pale Ale 4.5%,€ 1.99,The Crafty Brewing Company,No,,
+p6450,237952,Christmas Drinks,Sauvignon Blanc Western Cape 13%,€ 7.99,,No,,
+p3751,211125,Grocery Range Red Wines,Chianti DOCG Riserva  13%,€ 9.99,Chianti,No,,
+p16024,260310,Christmas Drinks,Heineken Alcohol Free Lager 0.0%,€ 5.99,,No,,
+p9313,22643,Christmas Drinks,Champagne Premium Cuvée Brut 12%,€ 29.99,Bissinger,Yes,,From 01.11
+p16076,,Christmas Drinks,Prosecco Spumante Valdobbiadene 11%,€ 12.99,,No,,
+p16031,260379,Christmas Drinks,Kopparberg Alcohol Free Strawberry & Lime Cider 0.0%,€ 4.49,,No,,
+p2864,235925,Christmas Drinks,Perlenbacher Non Alcoholic Lager 0%,€ 3.99,,No,,
+p4911,238874,Grocery Range Rums,Original Rum & Cola 5%,€ 1.49,,No,,
+p16079,,Christmas Drinks,Prosecco Spumante DOC Magnum,€ 19.99,,Yes,,From 29.11
+p5417,249003,Grocery Range Beef,Irish Angus Sirloin Steaks,€ 6.99,Deluxe,No,,
+p14422,211307,Grocery Range Red Wines,Rioja Doca Reserva,€ 8.49,Cepa Lebrel,No,,
+p3674,227320,Grocery Range Winemakers Selection,Australian Shiraz Baros 13.5%,€ 8.84,Winemaker's Selection,No,,
+p16060,231756,Christmas Drinks,Triple Sec 25%,€ 12.99,,Yes,,From 08.11
+p16061,,Christmas Drinks,Creme de Cassis de Dijon 15%,€ 9.99,,Yes,,From 08.11
+p16085,248809,Christmas Drinks,Winemaker's Selection Australian Premium Chardonnay Limestone Coast 12.5%,€ 7.99,,No,,
+p16065,254793,Christmas Drinks,Torres Natureo White Wine 0%,€ 6.99,,No,,
+p2854,203111,Christmas Drinks,Hampstead Premium Gin 40%,€ 12.99,,No,,
+p16064,,Christmas Drinks,Deluxe Irish Cream Liqueur Trio Gift Set 15%,€ 10.00,,Yes,,From 01.11
+p16063,,Christmas Drinks,Deluxe Irish Cream Liqueur Strawberries & Cream 15%,€ 10.00,,Yes,,From 01.11
+p12478,232122,Grocery Range Whiskey,Queen Margot Blended Scotch Whisky 40%,€ 18.99,,No,,
+p16081,216619,Christmas Drinks,Wild Burrow Wild Burrow Irish Gin 40%,€ 24.99,,No,,
+p16074,239960,Christmas Drinks,Hampstead Pink Gin 40%,€ 12.99,,No,,
+p2877,226812,Christmas Drinks,Korol Premium Grain Vodka 40%,€ 10.00,,No,,
+p4563,236633,Christmas Drinks,Ribera del Duero Reserva DO 10.5%,€ 11.99,,No,,
+p16105,262709,Christmas Drinks,Primitivo di Manduria DOC,€ 9.99,,Yes,,From 04.11
+p2332,,Christmas Drinks,Armilar Ruby Port 19%,€ 7.99,,No,,
+p8781,251741,Grocery Range Whiskey,Jameson Irish Whiskey 40%,€ 25.00,,No,,
+p4888,234167,Grocery Range White Wines,South African Premium Fairtrade Chenin Blanc 13%,€ 7.99,Winemaker's Selection,No,,
+p7733,203563,Christmas Drinks,Deluxe Irish Cream Liqueur 17%,€ 9.49,,No,,
+p3390,213629,Christmas Drinks,Rêverie Brandy X.O. 40%,€ 10.00,,No,,
+p3670,202199,Grocery Range Red Wines,Côtes du Rhône Villages AOC 13.5%,€ 7.49,,No,,
+p2842,209546,Grocery Range Sparkling Wines,Cava Brut DO 11.5%,€ 10.99,Arestel,No,,
+p16075,225711,Christmas Drinks,Winemaker's Selection Australian Cabernet Sauvignon Coonawarra 13%,€ 5.32,,No,,
+p3674,227320,Grocery Range Winemakers Selection,Australian Shiraz Baros 13.5%,€ 8.84,Winemaker's Selection,No,,
+p3755,217723,Grocery Range White Wines,Branco Vinho Verde DOC 10%,€ 6.87,Portal do Minho,No,,
+p4911,238874,Grocery Range Rums,Original Rum & Cola 5%,€ 1.49,,No,,
+p3646,217998,Grocery Range White Wines,Austrian Gruener Veltliner Reserved 13%,€ 7.37,,No,,
+p3678,209858,Grocery Range White Wines,Australian Chardonnay 13%,€ 5.20,Cimarosa,No,,
+p2837,206788,Grocery Range White Wines,Rioja Blanco DOCA 12%,€ 7.99,Cepa Lebrel,No,,
+p3763,211530,Grocery Range White Wines,Pinot Grigio Garda Bianco Dry 12%,€ 6.88,,No,,
+p3838,202549,Grocery Range Sparkling Wines,Prosecco Treviso Frizzante DOC 10.5%,€ 7.99,Allini,No,,
+p3540,211452,Grocery Range Sparkling Wines,Champagne Brut 12.5%,€ 16.49,Comte de Senneval,Yes,WAS €19.99,From 25.03
+p3771,211161,Grocery Range White Wines,Chardonnay Pays d'OC IGP 12%,€ 4.49,Chevalier de Fauvert,No,,
+p3555,207607,Grocery Range White Wines,Spanish White Wine 11%,€ 3.92,Conde Noble,No,,
+p4888,234167,Grocery Range White Wines,South African Premium Fairtrade Chenin Blanc 13%,€ 7.99,Winemaker's Selection,No,,
+p5190,218477,Grocery Range White Wines,Mosel Riesling 10.5%,€ 7.86,,No,,
+p3848,236984,Grocery Range White Wines,Chilean Chardonnay 13%,€ 22.62,Cimarosa,No,,
+p3766,202195,Grocery Range White Wines,Soave Classico DOC 11.5%,€ 5.89,,No,,
+p3784,202193,Grocery Range White Wines,Pinot Grigio delle Venezie DOC 13%,€ 5.89,Giulio Pasotti,No,,
+p3770,234245,Grocery Range White Wines,Sauvignon Blanc Val de Loire IGP 11.5%,€ 8.84,,No,,
+p3552,211112,Grocery Range White Wines,Chilean Chardonnay Reserva 12.5%,€ 7.86,Cimarosa,No,,
+p3772,211301,Grocery Range White Wines,Macon Villages Blanc AOP 13%,€ 8.99,Valley Spire,No,,
+p3300,211454,Grocery Range Sparkling Wines,Prosecco Spumante DOC 11%,€ 10.99,Allini,No,,
+p2842,209546,Grocery Range Sparkling Wines,Cava Brut DO 11.5%,€ 10.99,Arestel,No,,
+p3764,211314,Grocery Range White Wines,Sauvignon Blanc Pays d'Oc IGP 12%,€ 7.17,Chevalier de Fauvert,No,,
+p18058,211802,Super Savers,Deluxe Confit Duck Legs,€ 2.99,,Yes,Was €3.99,From 02.12
+p18057,245768,Super Savers,Deluxe 2 Irish Angus Beef Burgers,€ 1.89,,Yes,Was €2.39,From 02.12
+p18059,211873,Super Savers,Fresh Chicken Breast Fillets,€ 2.19,,Yes,Was €2.89,From 02.12
+p18056,221988,Super Savers,Smoked/Unsmoked Bacon Joint,€ 2.99,,Yes,Was €3.49,From 02.12
+p18055,232959,Super Savers,2 Salmon Darnes,€ 2.99,,Yes,Was €3.75,From 02.12
+p18060,249006,Super Savers,Deluxe Irish Angus Lean Diced Steak,€ 2.79,,Yes,Was €3.29,From 02.12
+p17895,229910,Super Savers,Irish Lean Beef Steak Mince,€ 3.89,,Yes,Was €4.89,From 25.11
+p17896,211873,Super Savers,Fresh Chicken Breast Fillets,€ 2.19,,Yes,Was €2.89,From 25.11
+p17730,906942,Deluxe Festive Specialities,Deluxe Marinated Jumbo Prawns,€ 5.99,,Yes,,From 18.11
+p17903,222222,Super Savers,Spring Onions,€ 0.49,,Yes,Was 69c,From 25.11
+p17729,215149,Deluxe Festive Specialities,Deluxe Three Fish Roast,€ 6.99,,Yes,,From 18.11
+p18080,5307456,Deluxe Festive Specialities,Deluxe Hot Smoked Salmon,€ 3.99,,Yes,Only,From 02.12
+p17728,138072,Deluxe Festive Specialities,Deluxe Wild Salmon Caviar,€ 3.99,,Yes,,From 18.11
+p17727,203689,Deluxe Festive Specialities,Deluxe Octopus Carpaccio,€ 3.59,,Yes,,From 18.11
+p17725,139242,Deluxe Festive Specialities,Deluxe Salmon in Puff Pastry,€ 4.99,,Yes,,From 18.11
+p17726,212567,Deluxe Festive Specialities,Deluxe Organic Irish Salmon,€ 5.49,,Yes,,From 18.11
+p17724,132723,Deluxe Festive Specialities,Deluxe Prawn Ring,€ 5.29,,Yes,,From 18.11
+p4694,232171,Summer BBQ,Curry Ketchup,€ 0.99,Kania,Yes,Multi-buy 2 For €1.50,From 27.05
+p4707,207706,Summer BBQ,Bacon Snack,€ 0.99,Snack Day,Yes,Multi-buy 2 For €1.50,From 27.05
+p14657,234515,Summer Ice Cream,Gelatelli Lactose Free Ice Cream,€ 3.99,,No,,
+p12049,252873,Summer BBQ,Macarons,€ 4.49,Confiserie Firenze,Yes,,From 27.05
+p9687,218503,Summer BBQ,Pulled Pork with Whiskey,€ 3.99,My Street Food,No,,
+p11261,225871,Summer BBQ,Whole Rainbow Trout,€ 3.99,Ocean Sea,Yes,Multi-buy 2 For €6,From 27.05
+p11232,202556,Summer BBQ,Onion Flavoured Rings,€ 0.69,Snack Day,Yes,Multi-buy 2 For €1,From 27.05
+p17786,109794,Plants & Flowers,Assorted Succulents,€ 2.49,,Yes,Only,From 18.11
+p4668,215498,Summer BBQ,Grape Spritzers,€ 1.69,Freeway,Yes,,From 27.05
+p17784,55348,Plants & Flowers,Christmas Cactus,€ 1.99,,Yes,Only,From 18.11
+p11251,219379,Summer Ice Cream,Gluten Free Ice Cream Cones,€ 2.99,Gelatelli,No,,
+p11240,252872,Summer BBQ,Strong Beer 10%,€ 5.49,Faxe,Yes,,From 27.05
+p17785,120846,Plants & Flowers,Christmas Rose (Helleborus Niger),€ 7.99,,Yes,Only,From 18.11
+p17783,146713,Plants & Flowers,Bouvardia,€ 3.99,,Yes,Only,From 18.11
+p11257,217373,Summer BBQ,Halloumi Cheese,€ 2.49,Eridanous,Yes,,From 27.05
+p13825,254512,Summer BBQ Food,Asian Salad Bag Kit,€ 1.99,Nature's Best,No,,
+p13364,152292,Summer BBQ Food,Cocktails,€ 1.49,,Yes,,From 10.06
+p186,232549,Summer BBQ Food,Italian Prosciutto,€ 1.99,Deluxe,No,,
+p11355,200374,Summer BBQ Food,Pizza Dough And Tomato Sauce,€ 1.99,Italiamo,No,,
+p13827,254517,Summer BBQ Food,Grain Salads,€ 1.99,Nature's Best,No,,
+p13816,bitterol,Summer BBQ Food,Bitterol Aperitivo Italiano 11%,€ 7.99,Bitterol,No,,
+p13826,254535,Summer BBQ Food,Chipotle Salad Bag Kit,€ 1.99,Nature's Best,No,,
+p14758,hardseltzer,Summer BBQ Food,Sunrise Hard Seltzers,€ 1.49,,Yes,Only,From 29.07
+p7775,213311,Gin Festival,Premium Ice Cubes,€ 0.80,Gelatelli,No,,
+p13824,255408,Summer BBQ Food,Super Food Salad,€ 2.99,Nature’s Best,No,,
+p3838,202549,Grocery Range Sparkling Wines,Prosecco Treviso Frizzante DOC 10.5%,€ 7.99,Allini,No,,
+p11353,212408,Summer BBQ Food,Barbeque Charcoal,€ 3.99,,No,,
+p4777,245341,Summer BBQ Food,Boneless & Skinless Chicken Thighs,€ 3.49,,No,,
+p4794,233815,Summer BBQ Food,Burger Sauce,€ 1.29,Batts,No,,
+p420,210696,Summer BBQ Food,6 Hot Dog Rolls,€ 0.79,Connell Bakery,No,,
+p11236,245346,Summer BBQ Food,Chicken Thigh Kebabs,€ 2.99,,No,,
+p814,200694,Summer BBQ Food,Pickled Gherkins,€ 1.19,Freshona,No,,
+p11234,236790,Summer BBQ Food,Chicken Burgers,€ 2.99,,No,,
+p4650,219289,Summer BBQ Food,Smokey Texan Chicken Drumsticks,€ 2.49,,No,,
+p4791,245771,Summer BBQ Food,Peppered Irish Beef Grillsteaks,€ 2.79,,No,,
+p11352,255107,Summer BBQ Food,Irish Quick Cook Chargrill Beef Burgers,€ 3.99,,No,,
+p1430,215629,Summer BBQ Food,Flavoured Mayonnaise,€ 0.85,Batts,No,,
+p4748,241348,Summer BBQ Food,Brioche Burger Buns,€ 1.09,Deluxe,No,,
+p7515,229415,Summer BBQ Food,Irish Skinny Beef Burgers,€ 1.89,,No,,
+p324,210700,Summer BBQ Food,6 Seeded Burger Buns,€ 0.69,Connell Bakery,No,,
+p4618,205898,Summer BBQ Accessories,Fire Lighter,€ 0.99,Grillmeister,Yes,,From 27.05
+p1183,212433,Summer BBQ Food,2 Irish Striploin Steaks,€ 5.49,Inisvale,No,,
+p4486,229882,Summer BBQ Food,Irish Beef Mince 18% Fat,€ 3.99,,No,,
+p11286,241793,Summer BBQ Accessories,Bamboo Skewers,€ 1.25,,Yes,,From 27.05
+p1777,229898,Summer BBQ Food,Matured Medallion Steaks,€ 3.99,Inisvale,No,,
+p1780,229897,Summer BBQ Food,2 Irish Sirloin Steaks Matured For 28 Days,€ 4.29,Inisvale,No,,
+p2718,229535,Summer BBQ Food,American Style Thick Cut Bacon,€ 1.29,Glensallagh,No,,
+p4657,232594,Summer BBQ Accessories,Deep Paper Plates,€ 0.99,Grillmeister,Yes,,From 27.05
+p1231,212011,Summer BBQ Food,2 Irish Rib Eye Steaks,€ 5.29,Inisvale,No,,
+p4653,204592,Summer BBQ Accessories,Instant BBQ,€ 2.49,Grillmeister,Yes,,From 27.05
+p4706,232606,Summer BBQ Accessories,Paper Plates,€ 2.49,Grillmeister,Yes,,From 27.05
+p11282,208313,Summer BBQ Accessories,Paper Tablecloth,€ 2.29,Grillmeister,Yes,,From 27.05
+p4655,204591,Summer BBQ Accessories,Aluminium BBQ Trays,€ 2.49,Grillmeister,Yes,,From 27.05
+p4692,232830,Summer BBQ Accessories,Beer Cups,€ 1.79,Grillmeister,Yes,,From 27.05
+p11265,241897,Summer BBQ Accessories,Paper Cups,€ 2.49,Grillmeister,Yes,,From 27.05
+p4621,206623,Summer BBQ Accessories,BBQ Aluminium Foil,€ 1.49,Grillmeister,Yes,,From 27.05
+p4622,204595,Summer BBQ Accessories,BBQ Firelighters,€ 2.49,Grillmeister,Yes,,From 27.05
+p4658,232541,Summer BBQ Accessories,Paper Straws,€ 0.79,Grillmeister,Yes,,From 27.05
+p12282,251462,Summer Ice Cream,Vegan Ice Cream,€ 2.99,Gelatelli,No,,
+p11258,241162,Summer Ice Cream,Strawberry & Mandarin Slushie,€ 1.99,Gelatelli,No,,
+p4676,202737,Summer BBQ Accessories,BBQ Cleaner,€ 2.49,Grillmeister,Yes,,From 27.05
+p88,203945,Summer Ice Cream,Space Runners Fruit Lollies,€ 1.69,Gelatelli,No,,
+p11246,241164,Summer Ice Cream,Iced Coconut & Pineapple Slushie,€ 1.99,Gelatelli,No,,
+p13755,60649,Summer Ice Cream,Ice Cream Cookie,€ 1.99,Gelatelli,No,,
+p11266,204561,Summer BBQ Accessories,Patterned Paper Cups,€ 2.49,Grillmeister,Yes,,From 27.05
+p17774,55347,Plants & Flowers,Azalea,€ 2.99,,Yes,Only,From 18.11
+p11245,233799,Summer Ice Cream,Gluten Free Ice Cream Sandwiches,€ 2.99,Gelatelli,No,,
+p11421,12509,Summer Ice Cream,Ice Cream Pots,€ 1.79,Gelatelli,No,,
+p17770,55312,Plants & Flowers,Large Poinsettia,€ 8.99,,Yes,Only,From 18.11
+p17772,135643,Plants & Flowers,Anthurium Jambo Red,€ 5.99,,Yes,Only,From 18.11
+p11349,251135,Summer Ice Cream,Low Calorie Ice Cream,€ 2.79,Dairy Farm,No,,
+p12531,235726,Summer Ice Cream,Swirled Ice Pops,€ 1.39,Gelatelli,No,,
+p10781,227908,Summer Ice Cream,Summertime Cones,€ 2.29,Gelatelli,No,,
+p4632,212352,Summer BBQ,BBQ Marshmallows,€ 2.99,Mcennedy,Yes,,From 27.05
+p17773,58380,Plants & Flowers,Mini Rose,€ 2.49,,Yes,Only,From 18.11
+p12794,213855,Summer BBQ,Hot Sauce,€ 1.99,Batt's,Yes,,From 27.05
+p7493,229488,Summer BBQ,Prawn Ring with Sauce,€ 5.49,Deluxe,Yes,,From 27.05
+p17771,153852,Plants & Flowers,Christmas Rose Bowl,€ 9.99,,Yes,Only,From 18.11
+p17769,55314,Plants & Flowers,Medium Poinsettia,€ 2.99,,Yes,Only,From 18.11
+p17768,6798,Plants & Flowers,Mini Poinsettia,€ 1.89,,Yes,Only,From 18.11
+p11253,206981,Summer BBQ,Cloudy Radler 2.5%,€ 0.99,Perlenbacher,Yes,,From 27.05
+p10819,65995,Summer BBQ,Spare Ribs,€ 3.99,Grillmeister,Yes,Multi-buy 2 For €6,From 27.05
+p17722,28370,Deluxe Festive Specialities,Deluxe Whole Lobster,€ 8.99,,Yes,,From 18.11
+p18081,238601,Deluxe Festive Specialities,Deluxe Irish Vintage Cheddar Truckle,€ 4.99,,Yes,Only,From 02.12
+p18079,6009589,Deluxe Festive Specialities,Deluxe Salami with Truffle,€ 4.49,,Yes,Only,From 02.12
+p17723,155965,Deluxe Festive Specialities,Deluxe Scallops,€ 6.49,,Yes,,From 18.11
+p18076,6000078,Deluxe Festive Specialities,Deluxe Tagliolini with Truffle,€ 1.79,,Yes,Only,From 02.12
+p18086,232324,Deluxe Festive Specialities,The Crafty Brewing Company 12 Beers of Christmas Gift Box,€ 19.99,,Yes,Only,From 02.12
+p18083,215974,Deluxe Festive Specialities,Deluxe Premium Sausage Rolls,€ 1.79,,Yes,Only,From 02.12
+p18078,5907094,Deluxe Festive Specialities,Snack Day Black Truffle Crisps,€ 1.49,,Yes,Only,From 02.12
+p18084,249778,Deluxe Festive Specialities,Deluxe Brown Crab Claws,€ 9.99,,Yes,Only,From 02.12
+p18085,237687,Deluxe Festive Specialities,Deluxe Pigs In Blankets,€ 2.99,,Yes,Only,From 02.12
+p10680,202557,Summer Sun Protection,SPF 50 Sun Spray for Kids,€ 1.99,Cien,No,,
+p14062,218016,Summer Sun Protection,After Sun Lotion,€ 2.99,Cien,No,,
+p18082,265201,Deluxe Festive Specialities,Deluxe King Prawn Cocktail,€ 3.49,,Yes,Only,From 02.12
+p10710,218016,Summer Sun Protection,After Sun Gel,€ 2.99,Cien,No,,
+p18077,6000657,Deluxe Festive Specialities,Deluxe Pappardelle with Truffle,€ 1.79,,Yes,Only,From 02.12
+p10717,202860,Summer Sun Protection,SPF 30 Classic Sun Lotion,€ 3.99,Cien,No,,
+p10674,233126,Summer Sun Protection,SPF 30 Sensitive Sun Spray,€ 2.99,Cien,No,,
+p10721,202348,Summer Sun Protection,SPF 20 Sun Lotion,€ 2.99,Cien,No,,
+p10672,203263,Summer Sun Protection,SPF 30 Invisible Sun Spray,€ 3.99,Cien,No,,
+p10722,233125,Summer Sun Protection,SPF 30 Sun Protection & Tanning Booster,€ 4.49,Cien,No,,
+p10701,202347,Summer Sun Protection,After Sun Hydrating Lotion,€ 2.99,,No,,
+p18075,6000698,Deluxe Festive Specialities,Deluxe Toma Cheese with Truffle,€ 2.49,,Yes,Only,From 02.12
+p10705,202731,Summer Sun Protection,SPF 20 Invisible Sun Spray,€ 3.99,Cien,No,,
+p10689,225431,Summer Sun Protection,SPF 20 Invisible Sun Oil Spray,€ 3.99,Cien,No,,
+p10681,233072,Summer Sun Protection,SPF 30 Classic Sun Spray,€ 3.99,Cien,No,,
+p10673,204861,Summer Sun Protection,SPF 20 Sun Lotion with Satin Effect,€ 3.99,Cien,No,,
+p18072,138812,Deluxe Festive Specialities,Deluxe Truffl e Mortadella,€ 1.99,,Yes,Only,From 02.12
+p18071,7403520,Deluxe Festive Specialities,Deluxe Pâté with Truffle,€ 1.49,,Yes,Only,From 02.12
+p10706,202140,Summer Sun Protection,SPF 6 Invisible Sun Oil Spray,€ 3.99,Cien,No,,
+p17998,7707215,Deluxe Festive Specialities,La Riserva del Re Mini Mozzarella,€ 2.99,,Yes,Only,From 25.11
+p18074,5610482,Deluxe Festive Specialities,Deluxe Mini Scallops with Truffl es,€ 3.49,,Yes,Only,From 02.12
+p10695,225440,Summer Sun Protection,SPF 50 Classic Sun Lotion,€ 3.99,Cien,No,,
+p17995,5222019,Deluxe Festive Specialities,Deluxe Gourmet Biscuits for Cheese,€ 2.99,,Yes,Only,From 25.11
+p17997,6010321,Deluxe Festive Specialities,Deluxe Parmigiano Reggiano DOP,€ 3.99,,Yes,,From 25.11
+p17999,6000065,Deluxe Festive Specialities,Deluxe Grana Padano DOP,€ 2.99,,Yes,Only,From 25.11
+p17993,5200014,Deluxe Festive Specialities,Deluxe Premium Cracker Selection,€ 2.29,,Yes,Only,From 25.11
+p18073,7700590,Deluxe Festive Specialities,Deluxe Salami Praline,€ 2.49,,Yes,Only,From 02.12
+p17996,6011230,Deluxe Festive Specialities,Deluxe Gorgonzola DOP,€ 2.99,,Yes,Only,From 25.11
+p17989,5609899,Deluxe Festive Specialities,Deluxe Neufchâtel AOP,€ 2.49,,Yes,Only,From 25.11
+p17988,5600092,Deluxe Festive Specialities,Langres AOP,€ 3.49,,Yes,Only,From 25.11
+p17991,6009632,Deluxe Festive Specialities,Deluxe Buffalo Milk Camembert,€ 3.99,,Yes,Only,From 25.11
+p17994,222702,Deluxe Festive Specialities,Valley Spire British Festive Cheese Selection,€ 4.99,,Yes,Only,From 25.11
+p17992,209561,Deluxe Festive Specialities,Deluxe Premium Blended Cheese,€ 2.79,,Yes,Only,From 25.11
+p17983,5102649,Deluxe Festive Specialities,Deluxe Tête de Moine AOP,€ 11.99,,Yes,Only,From 25.11
+p17981,238383,Deluxe Festive Specialities,Deluxe Christmas Chutney,€ 1.69,,Yes,,From 25.11
+p17982,263897,Deluxe Festive Specialities,Deluxe Chutney Gift Pack,€ 3.99,,Yes,Only,From 25.11
+p17990,236262,Deluxe Festive Specialities,Epoisses AOP,€ 4.99,,Yes,Only,From 25.11
+p17987,6601720,Deluxe Festive Specialities,Deluxe Filled Brie,€ 2.49,,Yes,Only,From 25.11
+p17977,29188,Deluxe Festive Specialities,Deluxe Pont l'Évêque AOP,€ 2.99,,Yes,Only,From 25.11
+p17985,261652,Deluxe Festive Specialities,Deluxe Acacia Honey,€ 4.99,,Yes,Only,From 25.11
+p17980,263279,Deluxe Festive Specialities,Deluxe Cucumber Relish,€ 1.89,,Yes,Only,From 25.11
+p17984,6400271,Deluxe Festive Specialities,Deluxe Acacia Honey,€ 5.49,,Yes,Only,From 25.11
+p17986,29763,Deluxe Festive Specialities,Deluxe Medjoul Dates,€ 2.49,,Yes,Only,From 25.11
+p17978,7707218,Deluxe Festive Specialities,Heiderbeck Goats Cheese,€ 1.99,,Yes,Only,From 25.11
+p17979,88253,Deluxe Festive Specialities,Deluxe Crémeux de Normandie,€ 1.99,,Yes,,From 25.11
+p18013,359911,Lidl Christmas Elves,Lidl Elves Wrapping Paper/Gift Bag,€ 1.99,,Yes,Only,From 25.11
+p18010,366819,Lidl Christmas Elves,Elf Ceramic Mug,€ 4.99,,Yes,Only,From 25.11
+p17974,6000094,Deluxe Festive Specialities,Deluxe Olive Tapenade,€ 1.49,,Yes,Only,From 25.11
+p18009,375345,Lidl Christmas Elves,Head Elf - 1 Meter,€ 19.99,,Yes,Only,From 25.11
+p17976,211968,Deluxe Festive Specialities,Deluxe Apple & Fig Relish,€ 2.49,,Yes,Only,From 25.11
+p18008,362097,Lidl Christmas Elves,Lidl Christmas Elves,€ 4.99,,Yes,Only,From 25.11
+p18054,375352,Littles Cuties,Lansinoh Feeding Bottles,€ 9.99,,Yes,Only,From 29.11
+p17975,5600107,Deluxe Festive Specialities,Deluxe Fig Confit,€ 1.29,,Yes,Only,From 25.11
+p18053,382759,Littles Cuties,Video Baby Monitor,€ 74.99,,Yes,RRP €139.99,From 29.11
+p18051,334796,Littles Cuties,Lupilu Long Sleeve Baby Bodysuit,€ 4.99,,Yes,Only,From 29.11
+p17973,138524,Deluxe Festive Specialities,Deluxe Gourmet Filled Soft Cheese,€ 2.49,,Yes,Only,From 25.11
+p18014,359910,Lidl Christmas Elves,Lidl Elves Wrapping Paper/Gift Bag,€ 1.99,,Yes,Only,From 25.11
+p18047,375350,Littles Cuties,Breastmilk Storage Bags,€ 9.99,,Yes,Only,From 29.11
+p18048,375348,Littles Cuties,Haakaa Silicone Breast Pump,€ 16.99,,Yes,Only,From 29.11
+p18012,400760,Lidl Christmas Elves,Christmas Box,€ 4.99,,Yes,Only,From 25.11
+p18045,275577,Littles Cuties,Simplee Sangenic Nappy Disposal Bin,€ 14.99,,Yes,Only,From 29.11
+p18044,363808,Littles Cuties,Lupilu Baby Pramsuit,€ 14.99,,Yes,Only,From 29.11
+p18042,354182,Littles Cuties,Lupilu Baby Toys,€ 5.99,,Yes,Only,From 29.11
+p18049,375351,Littles Cuties,Lansinoh Therapearl 3-in-1 Breast Therapy,€ 9.99,,Yes,Only,From 29.11
+p18011,366820,Lidl Christmas Elves,Elf Salt and Pepper Shakers,€ 3.99,,Yes,Only,From 25.11
+p18043,367354,Littles Cuties,Fisher-Price Baby Toys Assortment,€ 9.99,,Yes,Only,From 29.11
+p17897,245768,Super Savers,Irish Angus Beef Burgers,€ 1.89,,Yes,Was €2.39,From 25.11
+p17904,33333,Super Savers,Loose Pears,€ 0.39,,Yes,Was 49c,From 25.11
+p18050,365397,Littles Cuties,Lupilu Baby Christmas Socks,€ 2.49,,Yes,Only,From 29.11
+p18052,398036,Littles Cuties,Digital Sound Monitor,€ 44.99,,Yes,RRP €109.99,From 29.11
+p17894,229903,Super Savers,12 Irish Skinny Beef Meatballs,€ 1.99,,Yes,Was €2.65,From 25.11
+p17902,123456,Super Savers,Cucumber,€ 0.49,,Yes,Was 59c,From 25.11
+p17905,12345,Super Savers,Corn on the Cob,€ 0.49,,Yes,Was €1.39,From 25.11
+p17901,4353,Super Savers,Kaki,€ 0.49,,Yes,Was 99c,From 25.11
+p17922,232959,Super Savers,Lighthouse Bay 2 Irish Salmon Darnes,€ 2.99,,Yes,Was €3.75,From 25.11
+p18046,362003,Littles Cuties,Lupilu Nursing Pillow,€ 4.99,,Yes,Only,From 29.11
+p17951,313846,Black Friday Deals,TopMove Polycarbonate Cabin Case,€ 29.99,,Yes,Only,From 26.11
+p17947,367243,Black Friday Deals,HUAWEI Band 6 Fitness Tracker,€ 44.99,,Yes,RRP €59,From 26.11
+p17948,313855,Black Friday Deals,TopMove Smart Cabin Case,€ 44.99,,Yes,Only,From 26.11
+p17950,334317,Black Friday Deals,TopMove Polycarbonate Cabin Case,€ 24.99,,Yes,Only,From 26.11
+p17900,45454,Super Savers,Parsnips,€ 0.49,,Yes,was 99c,From 25.11
+p17945,372695,Black Friday Deals,Akai Bluetooth Party Speaker,€ 29.99,,Yes,"Was €69,99",From 26.11
+p17944,331732,Black Friday Deals,Cabin Case,€ 17.99,,Yes,Only,From 26.11
+p17943,399987,Black Friday Deals,Sharp 200W Soundbar,€ 129.99,,Yes,RRP €199.00,From 26.11
+p17949,314635,Black Friday Deals,TopMove Polycarbonate Business/ Cabin Case,€ 24.99,,Yes,Only,From 26.11
+p17946,382765,Black Friday Deals,SONY Bluetooth In-Ear Headphones,€ 59.99,,Yes,RRP €149.99,From 26.11
+p17941,372977,Black Friday Deals,NOW 1 Month Entertainment & Cinema Bundle,€ 14.99,,Yes,RRP €39.99,From 26.11
+p17940,400849,Black Friday Deals,42” Full HD Android Smart TV,€ 299.99,,Yes,RRP €529.99,From 26.11
+p17942,362088,Black Friday Deals,Hp Deskjet All-In-One Printer,€ 49.99,,Yes,Only,From 26.11
+p1566,200465,Grocery Range Pet Food,Super Premium Cat Food,€ 0.25,Coshida,No,,
+p17890,332365,Festive Clothing,Kids’ Premium Bestsellers,€ 14.99,,Yes,Only,From 22.11
+p3399,210869,Grocery Range Pet Food,Catfood Chunks,€ 2.59,Coshida,No,,
+p17938,362117,Black Friday Deals,Tower Carpet Washer,€ 79.99,,Yes,RRP €189.99,From 26.11
+p17937,369344,Black Friday Deals,Homedics Phone Sterilisation Pack,€ 17.99,,Yes,RRP €79.99,From 26.11
+p17939,402998,Black Friday Deals,Zanussi Bagless Cyclonic Vacuum,€ 74.99,,Yes,RRP €100,From 26.11
+p1982,228242,Grocery Range Pet Food,Premium Moist Dog Food,€ 3.29,Orlando,No,,
+p17934,372541,Black Friday Deals,Morphy Richards Dimensions Roll Top Bread Bin,€ 14.99,,Yes,RRP €39.49,From 26.11
+p17935,367428,Black Friday Deals,Philips Multigroom Series 3000,€ 19.99,,Yes,RRP €44.99,From 26.11
+p17932,375966,Black Friday Deals,Tower Gadget Set,€ 24.99,,Yes,RRP €67.19,From 26.11
+p17931,375960,Black Friday Deals,Tower Aluminium Pressure Cooker,€ 29.99,,Yes,RRP €109.99,From 26.11
+p2028,230275,Grocery Range Pet Food,Cat Food Chunks in Jelly,€ 4.99,Coshida,No,,
+p7669,235291,Grocery Range Pet Food,Dog Food Chub Rolls,€ 1.19,Orlando,No,,
+p4967,240155,Grocery Range Pet Food,Premium Dry Cat Food,€ 1.69,Coshida Pure Taste,No,,
+p17933,406081,Black Friday Deals,Nultribullet Go,€ 34.99,,Yes,Only,From 26.11
+p4024,227204,Grocery Range Pet Food,7 Dentastix Oral Care Sticks,€ 2.59,Pedigree,No,,
+p4224,200447,Grocery Range Pet Food,Dry Catfood Beef / Fish,€ 1.99,Coshida,No,,
+p4744,239798,Grocery Range Pet Food,Premium Meat Cat Snacks,€ 0.99,Coshida Pure Tastw,No,,
+p2744,211557,Grocery Range Pet Food,Dogfood Chunks in Gravy/Jelly,€ 0.99,Orlando,No,,
+p17930,364113,Black Friday Deals,Tower Air Fryer,€ 49.99,,Yes,RRP €119.99,From 26.11
+p8538,252104,Grocery Range Pet Food,Dry Dog Food,€ 8.49,Orlando,No,,
+p4849,232141,Grocery Range Pet Food,Premium Dry Dog Food,€ 3.49,Orlando Pure Taste,No,,
+p17928,375944,Black Friday Deals,Swan Retro 5 Piece Pan Set Cream,€ 49.99,,Yes,RRP €159.99,From 26.11
+p17929,364355,Black Friday Deals,Swan Automatic Milk Frother,€ 27.99,,Yes,RRP €59.99,From 26.11
+p1626,200771,Grocery Range Pet Food,Cat Sticks,€ 0.69,,No,,
+p17926,387658,Black Friday Deals,Delonghi Espresso Machine,€ 89.99,,Yes,RRP €99.99,From 26.11
+p17925,367369,Black Friday Deals,Delonghi Coffee Machine,€ 299.99,,Yes,RRP €519.99,From 26.11
+p2300,224807,Grocery Range Pet Food,Dog Dental Sticks,€ 0.69,Orlando,No,,
+p4454,202624,Grocery Range Pet Food,Meaty Sticks,€ 1.29,Orlando,No,,
+p17927,362063,Black Friday Deals,Salter Coffee to go Maker,€ 17.99,,Yes,RRP €29.99,From 26.11
+p2032,230263,Grocery Range Pet Food,Dog Food Chunks in Jelly & Gravy,€ 4.89,Orlando,No,,
+p17866,365095,DIY,Parkside Power Sander,€ 19.99,,Yes,Only,From 22.11
+p17862,366153,DIY,Parkside DIY Tool Assortment,€ 3.49,,Yes,Only,From 22.11
+p4955,242446,Grocery Range Cosmetics,Vegan Self Tanning Mousse,€ 3.99,Marbella Glow,No,,
+p17861,365090,DIY,Parkside Cordless Work Light,€ 24.99,,Yes,,From 22.11
+p17867,354102,DIY,Parkside LED Head Torch with Sensor,€ 12.99,,Yes,Only,From 22.11
+p17859,353563,DIY,Parkside Circular Saw Blade,€ 6.99,,Yes,Only,From 22.11
+p17864,354659,DIY,Parkside Cable/Chain Assortment,€ 3.99,,Yes,Only,From 22.11
+p17863,365090,DIY,Parkside 20V Cordless Drill Set,€ 39.99,,Yes,Only,From 22.11
+p17865,365095,DIY,Parkside Cross Line Laser,€ 29.99,,Yes,Only,From 22.11
+p17858,360590,DIY,Parkside Table Saw,€ 119.99,,Yes,Only,From 22.11
+p17869,353785,DIY,Parkside Paintbrush Set/Flat Brush Set,€ 4.99,,Yes,Only,From 22.11
+p17888,363389,Festive Clothing,Lupilu Kids‘ Christmas Socks,€ 1.99,,Yes,Only,From 22.11
+p17868,354134,DIY,Parkside Pump Action Drain Unblocker,€ 9.99,,Yes,Only,From 22.11
+p17887,363409,Festive Clothing,Lupilu/Pepperts Kids‘ Knit Leggings,€ 4.99,,Yes,From,From 22.11
+p17860,362562,DIY,Parkside Thermal Work Trousers/ Fleece Jacket,€ 14.99,,Yes,Only,From 22.11
+p17889,332366,Festive Clothing,Kids’ Bestsellers,€ 7.99,,Yes,Only,From 22.11
+p3558,214945,Grocery Range Baby Care,Toilet Wipes for Kids,€ 0.89,Lupilu,No,,
+p1866,229824,Grocery Range Baby Nappies,Newborn Nappies Size 1 2-5kg,€ 1.39,Lupilu,No,,
+p1960,230589,Grocery Range Baby Care,Baby Shampoo & Bath,€ 0.65,Lupilu,No,,
+p1862,229827,Grocery Range Baby Nappies,Mini Nappies Size 2 3-6kg,€ 1.99,Lupilu,No,,
+p15767,255717,Grocery Range Baby Food,Chloe's Organic Pineapple & Banana Puffs,€ 0.69,,No,,
+p5068,217488,Grocery Range Baby Food,Stage 3 Baby Foods,€ 1.99,Pipin Pear,No,,
+p1852,229830,Grocery Range Baby Nappies,XL Nappies Size 6 15+kg,€ 2.99,Lupilu,No,,
+p1848,229836,Grocery Range Baby Nappies,Junior Nappies Size 5+ 13-25kg,€ 2.99,Lupilu,No,,
+p5066,217500,Grocery Range Baby Food,Stage 4 Baby Foods,€ 2.29,Pipin Pear,No,,
+p1872,229838,Grocery Range Baby Nappies,XL Nappies Size 6+,€ 2.99,Lupilu,No,,
+p1854,229840,Grocery Range Baby Nappies,Junior Nappies Size 5 11-23kg,€ 2.79,Lupilu,No,,
+p1898,218079,Grocery Range Baby Food,Mini Kids Organic Rice Cakes,€ 0.79,Lupilu,No,,
+p11339,254185,Grocery Range Baby Care,Petroleum Jelly,,,No,,
+p17886,365154,Festive Clothing,Christmas Books Assortment,€ 4.99,,Yes,Only,From 22.11
+p1860,229834,Grocery Range Baby Nappies,Maxi Nappies Size 4+ 9-18kg,€ 1.49,Lupilu,No,,
+p11336,254184,Grocery Range Baby Care,Baby Pure Nappy Cream,€ 0.79,,No,,
+p17882,363347,Festive Clothing,Livarno Home Luxury Blanket,€ 14.99,,Yes,Only,From 22.11
+p1874,229828,Grocery Range Baby Nappies,Baby Nappies 3-6+,€ 2.99,Lupilu,No,,
+p17884,336737,Festive Clothing,Adult Premium Best Sellers,€ 14.99,,Yes,Only,From 22.11
+p1870,229833,Grocery Range Baby Nappies,Maxi Nappies Size 4 8-16kg,€ 2.99,Lupilu,No,,
+p1864,229826,Grocery Range Baby Nappies,Baby Pants Junior Size 5 12-17kg,€ 2.35,Lupilu,No,,
+p17885,336742,Festive Clothing,Adult Best Sellers,€ 7.99,,Yes,Only,From 22.11
+p17881,363377,Festive Clothing,Esmara Ladies‘ Christmas Jumper,€ 11.99,,Yes,Only,From 22.11
+p17883,363383,Festive Clothing,Esmara Ladies‘ Christmas Socks,€ 2.99,,Yes,Only,From 22.11
+p1874,229828,Grocery Range Baby Nappies,Baby Nappies 3-6+,€ 2.99,Lupilu,No,,
+p13764,218265,Grocery Range Vegan,Moscato Frizzante Rosé 5%,€ 4.99,Viajero,No,,
+p1303,236225,Grocery Range Vegan,Dairy Free Almond / Oat Drinks,€ 1.69,Just Free,No,,
+p5399,238978,Grocery Range Vegan,Vegan Hand Cream,€ 1.99,Cien Food For Skin,No,,
+p4505,234839,Grocery Range Vegan,Dairy Free Soya Pot,€ 1.49,Just Free,No,,
+p4955,242446,Grocery Range Cosmetics,Vegan Self Tanning Mousse,€ 3.99,Marbella Glow,No,,
+p17192,359295,Middle Aisle Specials,Silvercrest Sewing Machine,€ 89.99,,Yes,Only,From 01.11
+p9786,236484,Grocery Range Vegan,Moscato Frizante Blanco Joven 5%,€ 4.99,Viajero,No,,
+p12410,239591,Grocery Range Vegan,Skin Foodies Scrub / Wash,€ 2.03,Cien Food For Skin,No,,
+p5156,247243,Grocery Range Vegan,Vegan Mayo,€ 2.99,Hellman's,No,,
+p17193,362559,Middle Aisle Specials,Parkside Men's Leather Safety Shoes,€ 24.99,,Yes,Only,From 01.11
+p5308,239645,Grocery Range Vegan,Vegan Face Masks,€ 0.99,Cien,No,,
+p17194,362558,Middle Aisle Specials,Parkside Men's Work Trousers,€ 12.99,,Yes,Only,From 01.11
+p17190,354267,Middle Aisle Specials,Ultimate Speed Mini Compressor,€ 15.99,,Yes,Only,From 01.11
+p17195,354468,Middle Aisle Specials,Parkside 3 Socket Extension Leads 2pk,€ 5.99,,Yes,Only,From 01.11
+p17191,368945,Middle Aisle Specials,Parkside Aluminium Multi Purpose Ladder,€ 54.99,,Yes,Only,From 01.11
+p7844,202330,Grocery Range Fairtrade,Chocolate Fingers,€ 2.49,J.D. Gross,No,,
+p2064,217871,Grocery Range Fairtrade,Fairtrade Colombian Ground Coffee,€ 2.59,Deluxe,No,,
+p4888,234167,Grocery Range White Wines,South African Premium Fairtrade Chenin Blanc 13%,€ 7.99,Winemaker's Selection,No,,
+p17177,367016,Middle Aisle Specials,Silvercrest Dehumidifier,€ 84.99,,Yes,Only,From 28.10
+p2740,211363,Grocery Range Fairtrade,Premium Chocolate,€ 1.49,J.D. Gross,No,,
+p7098,231531,Christmas Vegan,Tartlets,€ 2.49,,No,,
+p17178,352840,Middle Aisle Specials,Silvercrest Kitchen Tools Digital Air Fryer,€ 49.99,,Yes,Only,From 28.10
+p14324,1234,Christmas Sides and Snacks,Italian Smoked Ham Slices,€ 2.69,,No,,
+p17344,26207,Christmas Sides and Snacks,Deluxe Italian Beer Cheese,€ 2.99,,Yes,Only,From 04.11
+p17342,60096,Christmas Sides and Snacks,Deluxe Buffalo Milk Camembert,€ 3.99,,Yes,Only,From 04.11
+p17347,21231,Christmas Sides and Snacks,Deluxe Panzerotti with Prawn & Crab,€ 2.29,,Yes,Only,From 04.11
+p7224,247273,Grocery Range Fairtrade,Way To Go! Fairtrade Chocolate,€ 1.99,Fin Carre,No,,
+p16154,216059,Christmas Vegan,Vegetable Parcels,€ 1.49,,No,,
+p8926,230258,Christmas Starters,Deluxe Belgian Pate,€ 2.99,,Yes,,From 29.11
+p16958,16829,Christmas Desserts,Deluxe Soft Amaretti,€ 1.99,,No,,
+p17381,230949,Christmas Vegan,Vegetable Nut Roasts,€ 2.99,,No,,
+p16760,203704,Christmas Starters,Deluxe Prosciutto San Daniele,€ 10.00,,Yes,,From 24.11
+p16750,1234,Christmas Starters,Deluxe Fennel Salami,,,No,,
+p16761,1234,Christmas Starters,Deluxe Paté with Truffle,€ 1.49,,No,,
+p16763,238980,Christmas Starters,Deluxe Christmas Paté,€ 3.79,,Yes,,From 29.11
+p1640,204705,Christmas Starters,Deluxe Parma Ham Slices,€ 2.29,,No,,
+p3430,218982,Christmas Starters,Deluxe Spanish Chorizo Mild / Spicy,€ 1.99,,No,,
+p13043,221684,Christmas Starters,Deluxe Belgian Pate,€ 2.29,,No,,
+p16756,1234,Christmas Starters,Deluxe Hot Smoked Salmon,,,Yes,,From 29.11
+p4328,236917,Christmas Starters,Deluxe Salmon in Puff Pastry,€ 3.49,,No,,
+p16753,249778,Christmas Starters,Deluxe Brown Crab Claws,€ 9.99,,Yes,,From 29.11
+p16755,1234,Christmas Starters,Deluxe Assorted Scallops,,,Yes,,From 24.11
+p16751,216298,Christmas Starters,Deluxe King Prawn Cocktail,€ 3.49,,Yes,,From 29.11
+p11496,252855,Christmas Starters,Deluxe Jumbo King Prawns,€ 3.29,,No,,
+p16744,1234,Christmas Starters,Deluxe Organic Smoked Salmon,€ 3.69,,No,,
+p16759,1234,Christmas Starters,Deluxe Trout Pate,€ 2.99,,Yes,,From 29.11
+p16754,250621,Christmas Starters,Deluxe Irish Crab Claws,,,No,,
+p16758,1234,Christmas Starters,Deluxe Smoked Trout,,,Yes,,From 29.11
+p16748,231886,Christmas Starters,Deluxe Fresh Scallops & Prawns,€ 6.99,,No,,
+p16752,248559,Christmas Starters,Deluxe Scallops without Roe,€ 6.49,,Yes,,From 27.09
+p475,209970,Christmas Starters,Deluxe Seafood Chowder,€ 3.49,,No,,
+p16749,1234,Christmas Starters,Deluxe Dublin Bay Prawns with Herbs & Garlic,€ 4.99,,No,,
+p16747,231881,Christmas Starters,Deluxe Scallops with Deluxe Black Pudding,€ 5.99,,No,,
+p16746,211980,Christmas Starters,Deluxe Oysters,€ 5.49,,Yes,,From 20.12
+p9057,221324,Christmas Starters,Argentinian Red Prawns,€ 6.99,,Yes,,From 29.11
+p16741,261530,Christmas Starters,Deluxe Muligatawny Soup,€ 1.79,,No,,
+p16743,1234,Christmas Starters,Deluxe Broccoli & Stilton Soup,€ 1.79,,No,,
+p7202,209923,Christmas Starters,Deluxe Salmon Sensation,€ 2.69,,No,,
+p5437,238890,Christmas Starters,Deluxe Chickpea & Coconut Soup,€ 1.79,,No,,
+p16745,1234,Christmas Starters,Deluxe Chestnut Mushrooms with Stilton and Leek,,,Yes,,From 24.11
+p16740,1234,Christmas Starters,Deluxe Charred Red Pepper Soup,€ 1.79,,No,,
+p16742,1234,Christmas Starters,Deluxe Spiced Butternut Squash Soup,€ 1.79,,No,,
+p14859,238888,Christmas Starters,Deluxe Minestrone Soup,€ 1.79,,No,,
+p15000,210415,Christmas Starters,Deluxe Wild Mushroom / Garden Pea Soup,€ 1.79,,No,,
+p617,209078,Christmas Starters,Deluxe Chicken & Vegetable Soup,€ 1.89,,No,,
+p13291,255406,Christmas Starters,"Deluxe Tomato, Bell Pepper & Chorizo Soup",€ 1.89,,No,,
+p13267,255407,Christmas Starters,Deluxe Sweet Potato & Chicken Soup,€ 1.89,,No,,
+p2052,210213,Christmas Starters,Deluxe Sri Lankan Chicken Soup,€ 1.89,,No,,
+p251,209077,Christmas Starters,Deluxe Creamy Tomato & Basil Soup,€ 1.49,,No,,
+p5459,230512,Christmas Mains,Deluxe Irish Triple Smoked Ham,€ 2.39,,No,,
+p16341,,Christmas Mains,Unsmoked Irish Ham Fillet 3kg,€ 9.99,,No,,
+p16342,,Christmas Mains,Smoked Irish Ham 3kg,€ 9.99,,No,,
+p2344,209072,Christmas Starters,Deluxe Wholesome Vegetable Soup,€ 1.49,,No,,
+p16905,203177,Christmas Sides and Snacks,Premium Pesto Sauces,€ 1.69,,Yes,Only,From 04.11
+p16337,,Christmas Mains,Deluxe Dry Cured Irish Bacon Roasting Joint ( with Clove and Brown Sugar Glaze/A Sticky Apricot Glaze/Acacia Honey and Wholegrain Mustard Glaze),€ 5.99,,Yes,,From 29.11
+p80,,Christmas Mains,Glensallagh Unsmoked Irish Ham Fillet,€ 8.99,,No,,
+p16336,,Christmas Mains,Deluxe Centre Cut Ham Fillet Unsmoked with Glaze Sachet,€ 9.99,,No,,
+p64,209636,Christmas Mains,Unsmoked Irish Ham Fillet,€ 4.49,,No,,
+p16340,211869,Christmas Mains,Irish Unsmoked Ham Fillet,€ 3.19,,No,,
+p5463,,Christmas Mains,Irish Topside Honey Cured Ham,€ 2.39,,No,,
+p16339,,Christmas Mains,Deluxe Topside Sweetcure,€ 9.99,,No,,
+p16334,,Christmas Mains,Large Unsmoked Half Horseshoe Ham Joint,€ 10.99,,Yes,,From 29.11
+p16338,,Christmas Mains,Reduced Salt Half Horseshoe Unsmoked,€ 19.99,,Yes,,From 29.11
+p16330,251350,Christmas Mains,Deluxe Dry Cure Half Horseshoe Ham Joint,€ 14.99,,No,,
+p49,208803,Christmas Mains,Smoked Irish Ham Fillet,€ 4.69,,No,,
+p16332,,Christmas Mains,Medium Applewood Smoked Half Horseshoe Ham Joint,€ 9.99,,Yes,,From 29.11
+p16327,,Christmas Mains,Deluxe Cured & Cooked Carvery Ham Honey & Clove glazed (Bord Bia),€ 19.99,,No,,
+p16335,,Christmas Mains,Deluxe Outdoor Reared Ham,€ 24.99,,Yes,,From 29.11
+p16325,224944,Christmas Mains,Unsmoked Whole Ham Leg Rolled & Boned,€ 25.99,,Yes,,From 29.11
+p16333,,Christmas Mains,Medium Unsmoked Half Horseshoe Ham Joint,€ 9.99,,Yes,,From 29.11
+p16329,239575,Christmas Mains,Whole Ham Leg Unsmoked,€ 26.99,,Yes,,From 29.11
+p16328,,Christmas Mains,Dressed Half Ham Leg Bone In,€ 19.99,,No,,
+p16326,231295,Christmas Mains,Deluxe Roasted Topside Irish Carvery Ham with Whiskey flavour / Mulled Wine (Bord Bia),€ 9.99,,Yes,,From 29.11
+p16331,,Christmas Mains,Large Applewood Smoked Half Horseshoe Ham Joint,€ 10.99,,Yes,,From 29.11
+p16322,209609,Christmas Mains,Unsmoked Half Ham Leg 3-5kg,€ 3.25,,Yes,,From 29.11
+p16318,,Christmas Mains,Deluxe Aromatic Duck Legs,€ 3.99,,No,,
+p1265,224589,Grocery Range Deluxe,Deluxe 2 Duck Breast Fillets,€ 5.99,,No,,
+p16321,249011,Christmas Mains,Deluxe Duck Breasts In Plum Sauce,€ 5.99,,No,,
+p16316,209795,Christmas Mains,Deluxe Duck Breasts with Garlic & Pepper,€ 5.49,,No,,
+p16324,224942,Christmas Mains,Smoked Whole Ham Leg Boned & Rolled,€ 27.99,,Yes,,From 29.11
+p16323,209627,Christmas Mains,Smoked Half Ham Leg 3-5kg,€ 3.75,,Yes,,From 29.11
+p16315,249012,Christmas Mains,Deluxe Easy Carve Stuffed Duck - With a Pork & Clementine Stuffing with a Zesty Orange Glaze,€ 14.99,,No,,
+p16312,217384,Christmas Mains,Deluxe 2 Part Boned Corn Fed Chicken Breast with Tomato & Basil Stuffing,€ 4.99,,No,,
+p16319,248996,Christmas Mains,Deluxe Duck Breasts a l’Orange With Orange Sauce,€ 5.99,,No,,
+p16309,,Christmas Mains,Roast Turkey Crown (stuffed),€ 19.99,,Yes,,From 13.12
+p16320,249001,Christmas Mains,Deluxe Duck Breasts In A Chinese 5 Spice,€ 5.99,,No,,
+p16311,215938,Christmas Mains,Deluxe 2 Part Boned Corn Fed Chicken Breast with Black Pudding & Apple Stuffing,€ 4.99,,No,,
+p16308,,Christmas Mains,Deluxe Fresh Irish Free Range Whole Turkey 5kg,€ 22.99,,No,,
+p16306,248829,Christmas Mains,Deluxe Fresh Irish Turkey Crown 3kg,€ 29.99,,No,,
+p16304,238928,Christmas Mains,Deluxe Irish Boned & Rolled Stuffed Turkey Joint,€ 14.99,,No,,
+p16303,238927,Christmas Mains,Deluxe Irish Boned & Rolled Turkey Joint,€ 14.99,,No,,
+p16314,224586,Christmas Mains,Deluxe Duck Crown,€ 7.99,,No,,
+p16307,,Christmas Mains,Deluxe Stuffed Irish Bronze Turkey Crown 2.4kg-2.8kg,€ 34.99,,No,,
+p2238,211802,Christmas Mains,Deluxe Confit of Irish Duck Legs with Garlic & Spices,€ 3.99,,No,,
+p16305,,Christmas Mains,Deluxe Organic Bronze Irish Turkey In Gift Box,€ 47.99,,No,,
+p16310,215869,Christmas Mains,"Deluxe 2 Part Boned Corn Fed Chicken Breast with Wheaten Bread, Caramelised Plum & Ginger Stuffing",€ 4.99,,No,,
+p16301,,Christmas Mains,Deluxe Fresh Irish Bronze Whole Turkey 5kg,€ 34.99,,No,,
+p16313,209314,Christmas Mains,Deluxe Fresh Whole Irish Duckling with Giblets,€ 5.99,,No,,
+p16299,,Christmas Mains,Deluxe Roast Turkey Crown (plain),€ 19.99,,Yes,,From 13.12
+p16302,,Christmas Mains,Fresh Irish Whole Turkey 8kg,€ 28.99,,No,,
+p16298,,Christmas Mains,Deluxe Turkey Breast Joint with Pear and Rosemary in Bacon,€ 14.99,,No,,
+p16294,210385,Christmas Mains,Fresh Irish Whole Turkey 6kg,€ 8.99,,No,,
+p16296,,Christmas Mains,Deluxe Fresh Irish Free Range Whole Turkey 4kg,€ 22.99,,No,,
+p16300,238803,Christmas Mains,Deluxe Fresh Irish Turkey Crown 2.4kg,€ 22.99,,No,,
+p16290,210193,Christmas Mains,Deluxe Fresh Irish Turkey Crown 1.8kg,€ 17.99,,No,,
+p16297,215620,Christmas Mains,Deluxe Turkey Breast Joint with Apple and Cranberry in Bacon,€ 14.99,,No,,
+p16855,215103,Christmas Desserts,Luxury Rich Fruit Cake,€ 7.99,,No,,
+p16854,247857,Christmas Desserts,Deluxe Luxury Christmas Pudding,€ 4.49,,No,,
+p16786,235780,Christmas Sweets & Treats,Favorina Gluten Free Pandoro,€ 4.49,,No,,
+p16414,262153,Christmas Desserts,Deluxe Panettone with Chocolate Cream,€ 7.99,,No,,
+p16295,210386,Christmas Mains,Fresh Irish Whole Turkey 7kg,€ 8.99,,No,,
+p16790,235780,Christmas Sweets & Treats,Favorina Gluten Free Panettone Classico,€ 4.99,,No,,
+p16291,210375,Christmas Mains,Fresh Irish Whole Turkey 3kg,€ 8.99,,No,,
+p16856,235889,Christmas Desserts,Deluxe Classico Panettone,€ 5.99,,No,,
+p16292,210382,Christmas Mains,Fresh Irish Whole Turkey 4kg,€ 8.99,,No,,
+p16825,169605,Christmas Sweets & Treats,Lactose Free Christmas Mix,€ 2.49,,No,,
+p16293,1234,Christmas Mains,Fresh Irish Whole Turkey 5kg,€ 8.99,,No,,
+p16419,262069,Christmas Desserts,Deluxe Panettone with Chocolate Chip & Candied Orange,€ 7.99,,No,,
+p16796,247844,Christmas Sweets & Treats,Favorina Gluten Free Christmas Pudding,€ 3.99,,No,,
+p16794,238959,Christmas Sweets & Treats,J.D Gross Wrapped Chocolate & Praline Selection,€ 3.99,,No,,
+p16686,262117,Christmas Sweets & Treats,J.D Gross Truffles,€ 2.29,,No,,
+p16823,168405,Christmas Sweets & Treats,Favorina Gluten Free Spiced Biscuits,€ 1.79,,No,,
+p17222,210185,Christmas Drinks,Deluxe Non Alcoholic Mulled Punch,€ 1.89,,No,,
+p16817,263240,Christmas Sweets & Treats,Favorina Gluten Free Gingerbread,€ 1.99,,No,,
+p16830,220791,Christmas Sweets & Treats,J.D Gross Belgian Chocolate Truffles,€ 1.99,,No,,
+p16190,202041,Christmas Sweets & Treats,Brandy Liqueurs,€ 2.49,,No,,
+p16056,128893,Christmas Sweets & Treats,Hazelnut Pralines,€ 2.99,,No,,
+p16792,212312,Christmas Sweets & Treats,Deluxe Soft Turron Bars,€ 1.89,,No,,
+p16776,207335,Christmas Sweets & Treats,J.D Gross Amidala Whole Hazelnut Pralines,€ 2.99,,No,,
+p16909,203041,Christmas Sweets & Treats,Sicilian Pistachio Ice Cream,€ 1.99,,No,,
+p16788,206765,Christmas Sweets & Treats,Mixed Fruit Sweets,€ 4.99,,No,,
+p16816,222929,Christmas Sweets & Treats,Deluxe Chocolate Truffles,€ 2.99,,No,,
+p17216,260941,Christmas Sweets & Treats,Chocolate Covered Date,€ 3.49,,No,,
+p16641,206882,Christmas Sweets & Treats,Deluxe Brittle Bar,€ 1.89,,No,,
+p16820,261539,Christmas Sweets & Treats,Deluxe Pecan Truffles with Belgian Milk Chocolate,€ 2.99,,No,,
+p17217,246940,Christmas Sweets & Treats,Deluxe Nut Brittle,€ 2.49,,No,,
+p16770,5205087,Christmas Sweets & Treats,Deluxe Premium Butter Fudge,€ 1.69,,No,,
+p16958,16829,Christmas Desserts,Deluxe Soft Amaretti,€ 1.99,,No,,
+p16828,249900,Christmas Sweets & Treats,Deluxe Chocolate Coated Fruit,€ 1.99,,No,,
+p17746,5600153,Christmas Sweets & Treats,Favorina Chocolate Coated Marshmallow Figure,€ 5.99,,Yes,,From 18.11
+p17747,12814,Christmas Sweets & Treats,Favorina Marzipan Log,€ 1.79,,Yes,Only,From 18.11
+p17745,7406636,Christmas Sweets & Treats,Favorina Christmas Chocolate Figures,€ 2.99,,Yes,Only,From 18.11
+p16772,207352,Christmas Sweets & Treats,Deluxe Hot Chocolate Stirrers,€ 1.29,,No,,
+p17749,147416,Christmas Sweets & Treats,Favorina Biscuit Assortment,€ 3.99,,Yes,Only,From 18.11
+p17523,15576,Christmas Sweets & Treats,Jellies Advent Calendar,€ 4.99,,No,,
+p17748,132172,Christmas Sweets & Treats,Favorina Christmas Cup with Chocolate,€ 5.99,,Yes,Only,From 18.11
+p16899,202402,Christmas Sweets & Treats,Milk Chocolate Advent Calendar,€ 0.99,,No,,
+p17743,209616,Christmas Sweets & Treats,Favorina Chocolate Biscuit Selection,€ 3.99,,Yes,Only,From 18.11
+p17744,206407,Christmas Sweets & Treats,Favorina Cinnamon Stars,€ 2.49,,Yes,Only,From 18.11
+p17742,222075,Christmas Sweets & Treats,Favorina Christmas Tree Pastries,€ 2.99,,Yes,,From 18.11
+p16931,209054,Christmas Sweets & Treats,Deep Filled Mince Pies,€ 1.79,,No,,
+p17521,139345,Christmas Sweets & Treats,Mini Christmas Figures,€ 1.89,,No,,
+p17522,11733,Christmas Sweets & Treats,Chocolate Christmas Figures,€ 1.19,,No,,
+p16919,237476,Christmas Sweets & Treats,Cheese Advent Calendar,€ 9.99,,No,,
+p17519,55667,Christmas Sweets & Treats,Flavoured Chocolate Santa,€ 1.79,,No,,
+p16911,211095,Christmas Sweets & Treats,Milk / Hazelnut Crispy Chocolate Pralines,€ 1.49,,No,,
+p16923,202401,Christmas Sweets & Treats,Christmas Chocolate Mix,€ 2.49,,No,,
+p16605,214405,Christmas Sweets & Treats,Favorina Mini Milk Chocolate Balls,€ 1.99,,No,,
+p17520,131824,Christmas Sweets & Treats,Chocolate Pralines,€ 1.49,,No,,
+p17103,236879,Christmas Sweets & Treats,Gingerbread Musical Train,€ 5.99,,No,,
+p18000,155769,Christmas Sweets & Treats,Favorina Nuts in Christmas Tree Basket,€ 4.99,,Yes,Only,From 25.11
+p16917,206227,Christmas Sweets & Treats,Christmas Biscuits,€ 3.99,,No,,
+p17096,94075,Christmas Sweets & Treats,Chocolate Lollies,€ 1.19,,No,,
+p16961,264039,Christmas Sweets & Treats,Spiced biscuit bites,€ 1.99,,No,,
+p16861,247853,Christmas Sweets & Treats,Favorina Large Christmas Pudding,€ 4.29,,No,,
+p16774,220990,Christmas Sweets & Treats,Favorina Chocolate Truffles,€ 2.49,,No,,
+p16859,201972,Christmas Sweets & Treats,Favorina  Chocolate Gingerbread Rounds,€ 1.49,,No,,
+p17101,221776,Christmas Sweets & Treats,Milk Chocolate Santa,€ 1.29,,No,,
+p17098,169191,Christmas Sweets & Treats,Chocolate Figures,€ 2.99,,No,,
+p17105,239221,Christmas Sweets & Treats,Chocolate Drop Dispenser,€ 2.99,,No,,
+p16862,247854,Christmas Sweets & Treats,Favorina Medium Christmas Pudding,€ 2.49,,No,,
+p16860,211414,Christmas Sweets & Treats,Favorina Large Marzipan Stollen,€ 2.99,,No,,
+p16212,211097,Christmas Sweets & Treats,Favorina Mini Marzipan Butter Stollen,€ 2.99,,No,,
+p17097,130032,Christmas Sweets & Treats,Toys with Chocolate,€ 5.99,,No,,
+p16213,202137,Christmas Sweets & Treats,Favorina Marzipan Log,€ 1.29,,No,,
+p16217,206257,Christmas Sweets & Treats,Favorina Marzipan Balls,€ 1.29,,No,,
+p12510,208904,Christmas Sweets & Treats,Favorina Top Iced Christmas Cake,€ 7.99,,No,,
+p16050,212310,Christmas Sweets & Treats,Favorina Panettone Cioccolato,€ 1.79,,No,,
+p16214,211095,Christmas Sweets & Treats,Favorina Chocolate Pralines,€ 1.49,,No,,
+p16220,203399,Christmas Sweets & Treats,Favorina Mini Stollen,€ 1.29,,No,,
+p16208,206227,Christmas Sweets & Treats,Favorina Favorina Christmas Biscuits,€ 3.99,,No,,
+p16204,228983,Christmas Sweets & Treats,Favorina Marzipan Nougat Bar,€ 1.19,,No,,
+p16215,264143,Christmas Sweets & Treats,Favorina Mini Marzipan Log,€ 1.99,,No,,
+p16210,220966,Christmas Sweets & Treats,Favorina Turkish Delight,€ 1.89,,No,,
+p16219,236869,Christmas Sweets & Treats,Favorina Gingerbread Men,€ 1.99,,No,,
+p16218,210139,Christmas Sweets & Treats,Favorina Christmas Pudding,€ 1.29,,No,,
+p16209,211095,Christmas Sweets & Treats,Favorina Crispy Chocolate Pralines,€ 1.49,,No,,
+p16211,214367,Christmas Sweets & Treats,Favorina Butter Cookies,€ 2.49,,No,,
+p16206,211597,Christmas Sweets & Treats,Favorina Almond Florentines,€ 2.99,,No,,
+p16048,201973,Christmas Sweets & Treats,Favorina Spiced Biscuits with Almonds,€ 1.99,,No,,
+p16180,211346,Christmas Sweets & Treats,Favorina Coconut Macaroons,€ 1.99,,No,,
+p16216,206233,Christmas Sweets & Treats,Favorina Milk Chocolate,€ 1.89,,No,,
+p18070,235889,Christmas Sweets & Treats,Favorina Panettone Classico,€ 5.99,,Yes,Only,From 02.12
+p16207,202400,Christmas Sweets & Treats,Favorina Chocolate Christmas Figures,€ 1.19,,No,,
+p16203,211254,Christmas Sweets & Treats,Favorina Nut Clusters,€ 1.99,,No,,
+p18069,263317,Christmas Sweets & Treats,Favorina Christmas Stocking,€ 3.79,,Yes,Only,From 02.12
+p16166,201970,Christmas Sweets & Treats,Favorina Spiced Biscuits,€ 1.49,,No,,
+p17176,352787,Middle Aisle Specials,Silvercrest Kitchen Tools Kettle,€ 19.99,,Yes,Only,From 28.10
+p2160,220749,Grocery Range Vegan,Vegan Pizzas,€ 1.79,Trattoria Alfredo,No,,
+p5344,250953,Grocery Range Vegan,Sweet Potato & Chilli Burger,€ 1.79,Plant to Plate,No,,
+p16205,206240,Christmas Sweets & Treats,Favorina Coated Almonds,€ 2.69,,No,,
+p17734,229037,Christmas Sweets & Treats,Build Your Own Gingerbread Set,€ 7.99,,Yes,only,From 11.11
+p2382,239576,Grocery Range Vegan,Plant Based Quarter Pounders,€ 1.99,Plant to Plate,No,,
+p17179,352743,Middle Aisle Specials,Silvercrest Kitchen Tools Toaster,€ 19.99,,Yes,Only,From 28.10
+p12282,251462,Summer Ice Cream,Vegan Ice Cream,€ 2.99,Gelatelli,No,,
+p5336,250952,Grocery Range Vegan,Beetroot & Chickpea Burger,€ 1.79,Plant to Plate,No,,
+p18068,170693,Christmas Sweets & Treats,Favorina Christmas Stars,€ 4.99,,Yes,Only,From 02.12
+p3022,238495,Grocery Range Vegan,Spicy Curried Cauliflower Burger,€ 1.79,Plant to Plate,No,,
+p3026,238496,Grocery Range Vegan,6 Plant Based Vegan Sausages,€ 1.99,Plant to Plate,No,,
+p4870,246194,Grocery Range Vegan,Vegan Sausage Rolls,€ 1.99,Golden Bake,No,,
+p18138,400760,Lidl Christmas Elves Accessories ,Christmas Eve Box,€ 4.99,,Yes,Only,From 02.12
+p18011,366820,Lidl Christmas Elves,Elf Salt and Pepper Shakers,€ 3.99,,Yes,Only,From 25.11
+p18022,378292,Play Time,Nerf Nerf Toy Gun Assortment,€ 17.99,,Yes,Only,From 29.11
+p18025,380437,Play Time,RC Assembly Model Kit,€ 34.99,,Yes,RRP €46.99,From 29.11
+p18010,366819,Lidl Christmas Elves,Elf Ceramic Mug,€ 4.99,,Yes,Only,From 25.11
+p18024,367170,Play Time,Radio-Controlled Cars,€ 14.99,,Yes,"RRP €19,99",From 29.11
+p18126,354623,Furry Friends - Pet Promotions,Food Or Water Bowl / Pet Placement,€ 4.99,,Yes,Only,From 02.12
+p18117,330491,Furry Friends - Pet Promotions,Automatic Pet Feeder,€ 17.99,,Yes,Only,From 02.12
+p18026,382453,Play Time,Simba Frozen Doll Assortment,€ 9.99,,Yes,RRP €14.99,From 29.11
+p18122,366343,Furry Friends - Pet Promotions,Assorted Dog Toys,€ 3.99,,Yes,Only,From 02.12
+p17972,247273,Weekend Super Savers,Way to Go Chocolate,€ 0.99,,Yes,Was €1.99,From 27.11
+p17921,2089111,Big Brand Super Savers,Fairy Washing Up Liquid Original,€ 1.99,,Yes,Was €2.50,From 25.11
+p18023,359873,Play Time,Parkside Kids' Toy Tools,€ 9.99,,Yes,Only,From 29.11
+p18009,375345,Lidl Christmas Elves,Head Elf - 1 Meter,€ 19.99,,Yes,Only,From 25.11
+p17971,251372,Weekend Super Savers,Glensallagh Irish Bacon Medallions,€ 1.99,,Yes,Was €2.69,From 27.11
+p17919,262767,Big Brand Super Savers,7up Soft Drink,€ 2.50,,Yes,MIX N MATCH 3 for €4,From 25.11
+p17918,255533,Big Brand Super Savers,Nescafè Gold Blend,€ 2.99,,Yes,Was €3.99,From 25.11
+p17920,228723,Big Brand Super Savers,Cadbury Dairy Milk,€ 0.99,,Yes,"Was €1,29",From 25.11
+p18125,354629,Furry Friends - Pet Promotions,Fur Grooming Set,€ 3.99,,Yes,Only,From 02.12
+p17957,123430,Festive Flower & Trees,Santa Conifer,€ 4.49,,Yes,Only,From 25.11
+p17917,208753,Big Brand Super Savers,Flora Pro-Activ Light Spread,€ 1.99,,Yes,Was €2.85,From 25.11
+p17710,83244,Weekend Super Savers,White Potatoes,€ 1.49,,No,,
+p3544,211168,Grocery Range Rosé Wines,Spanish Rose Wine 11%,€ 3.99,Conde Noble,No,,
+p17915,237055,Big Brand Super Savers,Muller Corner,€ 2.49,,Yes,"Was €3,79",From 25.11
+p13429,202345,Grocery Range Rosé Wines,Californian Zinfandel Rosé,€ 6.29,Cimarosa,No,,
+p17910,247985,Big Brand Super Savers,L’Oreal Men Expert Hydra Energetic Moisturiser,€ 5.99,,Yes,Only,From 25.11
+p3894,211228,Grocery Range Rosé Wines,Pinot Grigio Delle Venezie Rose 11.5%,€ 6.49,Giulio Pasotti,No,,
+p17908,224105,Big Brand Super Savers,Tayto Bistro Sharing Crisps,€ 1.79,,Yes,Only,From 25.11
+p17916,209632,Big Brand Super Savers,Kinder Maxi King/ Pingui,€ 1.49,,Yes,Was €1.99,From 25.11
+p17914,210376,Big Brand Super Savers,Smirnoff Vodka,€ 18.00,,Yes,Was €21,From 25.11
+p17909,247972,Big Brand Super Savers,Garnier Ultimate Blends Hair Food,€ 3.99,,Yes,Only,From 25.11
+p17907,231964,Big Brand Super Savers,KP Nuts,€ 3.49,,Yes,Only,From 25.11
+p17913,260233,Big Brand Super Savers,Tassimo Kenco Coffee,€ 4.99,,Yes,Only,From 25.11
+p17911,208911,Big Brand Super Savers,Fairy Washing Up Liquid Aromatics Apple,€ 1.79,,Yes,Only,From 25.11
+p18100,146972,Festive Flower & Trees,Decorative Reindeer,€ 8.99,,Yes,,From 02.12
+p17708,212917,Big Brand Super Savers,Cadbury Dairy Milk,€ 1.99,,Yes,Was €2.95,18.11 - 24.11
+p17706,227675,Big Brand Super Savers,Meridian Nut Butter,€ 3.89,,Yes,Was €4.89,18.11 - 24.11
+p17970,204722,Weekend Super Savers,Deluxe Hand Cooked Crisps,€ 1.79,,Yes,Mix n Match 2 FOR €2,From 27.11
+p17906,228752,Big Brand Super Savers,Cushelle Toilet Paper 2Ply,€ 11.99,,Yes,Only,From 25.11
+p17912,218109,Big Brand Super Savers,Tuc Crackers,€ 0.99,,Yes,Only,From 25.11
+p17707,236940,Big Brand Super Savers,Pantene Shampoo/ Conditioner,€ 3.33,,Yes,Was €4.99,18.11 - 24.11
+p17704,259894,Big Brand Super Savers,Kenco Smooth Instant Coffee,€ 4.99,,Yes,"Was €5,99",18.11 - 24.11
+p17700,250988,Big Brand Super Savers,Cadbury Chocolate Selection,€ 4.89,,Yes,,18.11 - 24.11
+p17709,209836,Big Brand Super Savers,Batchelors Baked Beans,€ 2.99,,Yes,Was €3.49,18.11 - 24.11
+p17697,248236,Big Brand Super Savers,O’Donnell’s Crisps Selection,€ 1.99,,Yes,Only,18.11 - 24.11
+p17695,251669,Big Brand Super Savers,Kellogg‘s Cornflakes,€ 2.87,,Yes,,18.11 - 24.11
+p17694,210978,Big Brand Super Savers,Coca-Cola Original/Diet/Zero,€ 5.89,,Yes,,18.11 - 24.11
+p17705,231009,Big Brand Super Savers,Schweppes Tonic Water,€ 1.70,,Yes,Mix n Match 2 for €3,18.11 - 24.11
+p17703,208794,Big Brand Super Savers,Danone Actimel,€ 2.99,,Yes,"Was €3,89",18.11 - 24.11
+p17702,228754,Big Brand Super Savers,Birds Eye Chicken Burgers,€ 2.00,,Yes,"Was €3,40",18.11 - 24.11
+p17699,250976,Big Brand Super Savers,Cadbury Chocolate Selection,€ 4.89,,Yes,,18.11 - 24.11
+p17701,209500,Big Brand Super Savers,Cadbury Milk Tray,€ 4.99,,Yes,Only,18.11 - 24.11
+p17967,212009,Weekend Super Savers,Irish Beef Stir Fry,€ 1.99,,Yes,Was €2.49,From 27.11
+p17969,206961,Weekend Super Savers,Lyons Original Blend Tea,€ 2.49,,Yes,Was €3.19,From 27.11
+p17960,55402,Festive Flower & Trees,Decorated Christmas Tree,€ 8.99,,Yes,Only,From 29.11
+p18101,6798,Festive Flower & Trees,Poinsettias,€ 1.89,,Yes,,From 25.11
+p17959,55348,Festive Flower & Trees,Christmas Cactus,€ 1.99,,Yes,Only,From 29.11
+p17698,223650,Big Brand Super Savers,Mc Vities Victoria Biscuits,€ 4.95,,Yes,Only,18.11 - 24.11
+p17958,146695,Festive Flower & Trees,Plant Lantern,€ 7.99,,Yes,Only,From 25.11
+p18006,215494,Christmas Brands,Nestlé Walnut Whip,€ 3.99,,Yes,Only,From 25.11
+p18005,266279,Christmas Brands,Snowman & Snowdog Snow Creams,€ 1.99,,Yes,Only,From 25.11
+p17968,80236,Weekend Super Savers,Honeycrunch Apple,€ 1.69,,Yes,Was €2.69,From 27.11
+p17696,253040,Big Brand Super Savers,L‘OR Capsules,€ 2.49,,Yes,Only,18.11 - 24.11
+p17956,156860,Festive Flower & Trees,Potted Christmas Tree (Picea Glauca),€ 12.99,,Yes,Only,From 25.11
+p17954,166082,Festive Flower & Trees,Mini Tree in Ceramic Pot,€ 4.99,,Yes,Only,From 25.11
+p17953,55406,Festive Flower & Trees,Christmas Wreath,€ 9.99,,Yes,Only,From 25.11
+p18004,230966,Christmas Brands,Cadbury Cadbury Festive Cake Selection,€ 4.99,,Yes,Only,From 25.11
+p18099,583800,Festive Flower & Trees,Mini Rose,€ 2.99,,Yes,Only,From 29.11
+p17955,131272,Festive Flower & Trees,Apartment Christmas Tree,€ 18.99,,Yes,Only,From 25.11
+p17961,118939,Festive Flower & Trees,6 Foot Irish Grown Christmas Tree,€ 24.99,,Yes,Only,From 25.11
+p18007,216144,Christmas Brands,Orchard Snowcreams,€ 2.49,,Yes,Only,From 25.11
+p17531,248217,Christmas Brands,King/Tayto/Hunky Dory Christmas Crisp Box,€ 3.99,,No,,
+p18001,251131,Christmas Brands,Jacobs Cakes/Biscuits,€ 10.00,,Yes,Only,From 25.11
+p17952,148103,Festive Flower & Trees,Medium Christmas Tree,€ 17.99,,Yes,Only,From 25.11
+p17529,250972,Christmas Brands,Small Selection Pack,€ 1.49,,No,,
+p17530,238715,Christmas Brands,Christmas Crisp Box,€ 3.99,King/Tayto/Hunky Dory,No,,
+p17528,25098,Christmas Brands,Stocking Selection Box,€ 3.99,,No,,
+p18003,230961,Christmas Brands,Cadbury Reindeer Cakes,€ 2.99,,Yes,Only,From 25.11
+p17964,54321,Festive Flower & Trees,My Surprise Elf Tree,€ 14.99,,Yes,Only,From 25.11
+p17526,223650,Christmas Brands,McVities Biscuit Assortment,€ 4.99,,No,,
+p16897,238749,Christmas Brands,Figure with Surprise,€ 2.49,,No,,
+p18002,209436,Christmas Brands,Cadbury Cadbury Triple,€ 2.99,,Yes,Only,From 25.11
+p16351,230623,Christmas Brands,Fox's Biscuit Assortment,€ 4.99,,No,,
+p18041,367172,Play Time,Lego Sets Assortment,€ 12.99,,Yes,Only,From 29.11
+p17815,12,Christmas Brands,Chocolate Selection Pouches,€ 3.99,,No,,
+p18040,367352,Play Time,Lego Duplo Play Set,€ 8.99,,Yes,Only,From 29.11
+p18039,383560,Play Time,Lego Sets Assortment,€ 19.99,,Yes,Only,From 29.11
+p8733,253247,Christmas Brands,Malteser Truffles,€ 4.99,Mars,No,,
+p18038,367169,Play Time,Lego Sets Assortment,€ 22.99,,Yes,Only,From 29.11
+p16937,238916,Christmas Brands,Chocolate Mini Advent Calendar,€ 3.99,,No,,
+p18121,354635,Furry Friends - Pet Promotions,Dog Harness,€ 9.99,,Yes,Only,From 02.12
+p18124,380826,Furry Friends - Pet Promotions,Catit Senses Play Circuit,€ 14.99,,Yes,Only,From 02.12
+p16969,214874,Christmas Brands,Licensed Advents Calender,€ 1.19,,No,,
+p16623,231156,Christmas Brands,Dairy Milk Advent Calendar,€ 2.49,,No,,
+p18127,359315,Furry Friends - Pet Promotions,Reversible Self Cooling and Warming Dog Mattress,€ 29.99,,Yes,Only,From 02.12
+p18037,382350,Play Time,Baby Toys Assortment,€ 4.99,,Yes,Only,From 29.11
+p17527,264674,Christmas Brands,Intrigue Truffles,€ 5.99,,No,,
+p18036,382351,Play Time,Play Nest Jungle,€ 22.99,,Yes,Only,From 29.11
+p18118,365994,Furry Friends - Pet Promotions,Cat Activity Tower,€ 14.99,,Yes,Only,From 02.12
+p18035,382352,Play Time,Soothe 'n' Snuggle Otter,€ 29.99,,Yes,Only,From 29.11
+p18032,366454,Play Time,Playtive Kids’ Wooden Toys,€ 9.99,,Yes,,From 29.11
+p18120,353158,Furry Friends - Pet Promotions,Lead Assortment,€ 9.99,,Yes,Only,From 02.12
+p18029,366189,Play Time,Playtive Wooden Play Set Assortment,€ 12.99,,Yes,Only,From 29.11
+p18033,359812,Play Time,Kids’ Activity Book,€ 3.49,,Yes,,From 29.11
+p18027,366185,Play Time,Playtive Kids’ Easel,€ 26.99,,Yes,Only,From 29.11
+p18123,359496,Furry Friends - Pet Promotions,Nerf Ball Blaster,€ 14.99,,Yes,Only,From 02.12
+p18109,363959,Winter & Ski ,Adult Ski Multi-Functional Neck Warmer,€ 3.49,,Yes,Only,From 02.12
+p18031,366458,Play Time,Playtive Wooden Baby Learning Toys,€ 4.99,,Yes,Only,From 29.11
+p18030,366898,Play Time,Playtive Wooden Light Box,€ 29.99,,Yes,Only,From 29.11
+p18021,382349,Play Time,Polly Pocket Sets,€ 17.99,,Yes,Only,From 29.11
+p18018,364462,Play Time,Kindi Kids Doll Assortment,€ 24.99,,Yes,Only,From 29.11
+p18119,354622,Furry Friends - Pet Promotions,Pet Hair Clippers,€ 14.99,,Yes,Only,From 02.12
+p18017,359872,Play Time,Bayer Piccolina First Words Baby,€ 17.99,,Yes,Only,From 29.11
+p18016,366195,Play Time,Playtive Dolls’ House Furniture Set,€ 8.99,,Yes,Only,From 29.11
+p18034,364863,Play Time,Playtive Talking Teddys,€ 11.99,,Yes,Only,From 29.11
+p18130,363060,Winter & Ski ,Kids' Mittens,€ 3.99,,Yes,Only,From 02.12
+p18116,366502,Winter & Ski ,Foot Warmers / Hand Warmers / Heated Insoles,€ 1.99,,Yes,Only,From 02.12
+p18112,363963,Winter & Ski ,Ladies' Ski Gloves,€ 6.99,,Yes,Only,From 02.12
+p18015,359562,Play Time,Dressing Table & Stool,€ 54.99,,Yes,Only,From 29.11
+p18020,359872,Play Time,Bayer Piccolina First Words Baby,€ 17.99,,Yes,Only,From 29.11
+p18128,363050,Winter & Ski ,Kids' Winter Boots,€ 11.99,,Yes,Only,From 02.12
+p18028,366197,Play Time,Playtive Wooden Toy Play Set Assortment,€ 6.99,,Yes,Only,From 29.11
+p18019,359874,Play Time,Bayer Doll's Pram / Doll's Bed,€ 22.99,,Yes,Only,From 29.11
+p18129,358821,Winter & Ski ,Adults' Ski and Snowboard Goggles,€ 7.99,,Yes,Only,From 02.12
+p18110,335844,Winter & Ski ,Kids' Winter Shoes,€ 11.99,,Yes,Only,From 02.12
+p18106,363030,Winter & Ski ,Kids' Base Layer Set,€ 8.99,,Yes,Only,From 02.12
+p18131,363040,Winter & Ski ,Kids' Base Layer Set,€ 6.99,,Yes,Only,From 02.12
+p18115,363045,Winter & Ski ,Kids' Knitted Hat,€ 2.99,,Yes,Only,From 02.12
+p18111,363596,Winter & Ski ,Ladies' Ski Trousers,€ 19.99,,Yes,Only,From 02.12
+p18113,363041,Winter & Ski ,Kids' Thermal Sports Top,€ 6.99,,Yes,Only,From 02.12
+p18108,363603,Winter & Ski ,Ladies'/Men's Ski Socks,€ 3.49,,Yes,Only,From 02.12
+p18107,363042,Winter & Ski ,Kids' Ski Jacket,€ 14.99,,Yes,Only,From 02.12
+p18159,363751,Winter & Ski ,Men's Ski Jacket,€ 29.99,,Yes,Only,From 02.12
+p18102,363595,Winter & Ski ,Ladies' Ski Jacket,€ 29.99,,Yes,Only,From 02.12
+p18103,363700,Winter & Ski ,Men's Ski Trousers,€ 19.99,,Yes,Only,From 02.12
+p18114,363037,Winter & Ski ,Kids' Ski Trousers,€ 11.99,,Yes,Only,From 02.12
+p18105,319340,Winter & Ski ,Ladies' Seamless Ski Baselayer Trousers,€ 12.99,,Yes,Only,From 02.12
+p18104,363594,Winter & Ski ,Men's Ski Baselayer Trousers,€ 11.99,,Yes,Only,From 02.12
